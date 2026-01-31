@@ -1,7 +1,6 @@
 # lora_mini.py
 import machine
 import time
-import random
 
 import utils
 from constants import LOG

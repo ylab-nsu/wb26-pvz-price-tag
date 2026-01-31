@@ -207,6 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 # Project
-board_libs/board_client/config.py
-board_site/frontend/node_modules
-board_site/frontend/package-lock.json
+**/board_client/config.py
+**/frontend/node_modules
+**/frontend/package-lock.json
