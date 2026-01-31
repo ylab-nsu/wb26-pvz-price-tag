@@ -1,0 +1,14 @@
+{
+  "name": "Чай Гринфилд, очень большой пакетик",
+  "res_price": {
+    "rubs": 249,
+    "kopecks": 99
+  },
+  "discount": {
+    "base_price": {
+      "rubs": 209,
+      "kopecks": 99
+    },
+    "discount": 23
+  }
+}
